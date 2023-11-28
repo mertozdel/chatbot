@@ -1,7 +1,7 @@
-# Penguin Chat Application Documentation
+# Chat Application Documentation
 
 ## Introduction
-Penguin Chat is a Node.js and React-based chat application that simulates conversations with a virtual character named Erdogan. The backend is developed using Express and MongoDB for handling API requests and data management, respectively. The frontend is built using React, providing a dynamic user interface for interactive chat.
+Chat is a Node.js and React-based chat application that simulates conversations with a virtual character named Erdogan. The backend is developed using Express and MongoDB for handling API requests and data management, respectively. The frontend is built using React, providing a dynamic user interface for interactive chat.
 
 ## Implementation Approach
 
